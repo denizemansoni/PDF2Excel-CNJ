@@ -2,8 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)  
 [![License](https://img.shields.io/badge/License-MIT-green)](#-licença)  
-[![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)](#)  
-[![Contribuições](https://img.shields.io/badge/Contribuições-Bem%20vindas-orange)](#-contribuição)  
 
 Aplicação desenvolvida para resolver um problema cotidiano de **extração de dados de relatórios em PDF**.  
 O objetivo é **converter informações jurídicas** — como **números de processo CNJ** e **nomes das partes** — em uma planilha Excel organizada e pronta para análise.  
