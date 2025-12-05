@@ -1,0 +1,11 @@
+# Lista de dependências do projeto
+camelot-py[cv]==0.11.0
+→ versão estável do Camelot com suporte ao OpenCV, usada para extrair tabelas de PDFs
+
+pandas==2.2.2
+→ versão atual e estável do Pandas, para manipulação de dados.
+
+openpyxl==3.1.5
+- → versão estável do OpenPyXL, para exportar os dados em formato Excel .xlsx.
+
+
